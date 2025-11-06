@@ -50,7 +50,7 @@ src/iri_ssd_case_inspection_robot_behavior/
 src/yolo_detection_action/
 
 src/aoi_kinova/*
-# !src/aoi_kinova/scripts/
+!src/aoi_kinova/scripts/
 
 src/*.zip
 *.zip
