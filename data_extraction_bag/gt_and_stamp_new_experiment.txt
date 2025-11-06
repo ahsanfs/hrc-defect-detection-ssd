@@ -1,0 +1,176 @@
+Ground Truth TR1 {[4/1, 2/3, 4/1, 2/3, 2/3, 4/1, 2/3, 2/3, 2/3, 2/3, 4/1, 2/3]}
+
+Ground Truth TR2 {[2/3, 4/1, 2/3, 2/3, 2/3, 2/3, 4/1, 2/3, 2/3, 4/1, 2/3, 4/1]}
+
+Robot
+1.[DEBUG] [1752731470.247581428]: Accepting a new goal
+[DEBUG] [1752731470.247623576]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1752731470.246995910, stamp: 1752731470.25
+
+{"timestamp": "2025-07-17 13:51:40", "ros_time": "1752731500.8045673", "final_state_before_reset": [4, 2, 4, 2, 2, 4, 2, 2, 2, 2, 4, 2]}
+
+2.[DEBUG] [1752731966.192888337]: Accepting a new goal
+[DEBUG] [1752731966.192988098]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1752731966.191558312, stamp: 1752731966.19
+
+{"timestamp": "2025-07-17 13:59:56", "ros_time": "1752731996.581221", "final_state_before_reset": [2, 4, 2, 2, 2, 2, 4, 2, 2, 4, 2, 4]}
+
+3.[DEBUG] [1752732661.970138189]: Accepting a new goal
+[DEBUG] [1752732661.970216243]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1752732661.969252220, stamp: 1752732661.97
+
+{"timestamp": "2025-07-17 14:11:32", "ros_time": "1752732692.228996", "final_state_before_reset": [4, 2, 4, 2, 2, 4, 2, 2, 2, 2, 4, 2]}
+
+4.[DEBUG] [1752732845.992030666]: Accepting a new goal
+[DEBUG] [1752732845.992210198]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1752732845.990889219, stamp: 1752732845.99
+
+{"timestamp": "2025-07-17 14:14:36", "ros_time": "1752732876.042807", "final_state_before_reset": [2, 4, 2, 2, 2, 2, 4, 2, 2, 4, 2, 4]}
+
+5.[DEBUG] [1752733112.705982756]: Accepting a new goal
+[DEBUG] [1752733112.706065351]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1752733112.704811434, stamp: 1752733112.70
+
+{"timestamp": "2025-07-17 14:19:03", "ros_time": "1752733143.0833893", "final_state_before_reset": [4, 2, 4, 2, 2, 4, 2, 2, 2, 2, 4, 2]}
+
+6.[DEBUG] [1752733233.987891842]: Accepting a new goal
+[DEBUG] [1752733233.988062932]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1752733233.986373595, stamp: 1752733233.99
+
+{"timestamp": "2025-07-17 14:21:04", "ros_time": "1752733264.3235877", "final_state_before_reset": [2, 4, 2, 2, 2, 2, 4, 2, 2, 4, 2, 4]}
+
+
+
+
+Human
+1.{"timestamp": "2025-07-17 14:37:04", "ros_time": "1752734224.942945", "final_state_before_reset": [1, 3, 1, 3, 3, 1, 3, 3, 3, 3, 1, 3]}
+
+2.{"timestamp": "2025-07-17 14:55:15", "ros_time": "1752735315.5936768", "final_state_before_reset": [3, 1, 3, 3, 3, 3, 1, 3, 3, 1, 3, 1]}
+
+3.{"timestamp": "2025-07-17 15:06:13", "ros_time": "1752735973.5896254", "final_state_before_reset": [1, 3, 1, 3, 3, 1, 3, 3, 3, 3, 1, 3]}
+
+4.{"timestamp": "2025-07-17 15:08:41", "ros_time": "1752736121.1429453", "final_state_before_reset": [3, 1, 3, 3, 3, 3, 1, 3, 3, 1, 3, 1]}
+
+5.{"timestamp": "2025-07-17 15:14:45", "ros_time": "1752736485.99647", "final_state_before_reset": [1, 3, 1, 3, 3, 1, 3, 3, 3, 3, 1, 3]}
+
+6.{"timestamp": "2025-07-17 15:16:23", "ros_time": "1752736583.523437", "final_state_before_reset": [3, 1, 3, 3, 3, 3, 1, 3, 3, 1, 3, 1]}
+
+
+
+
+HRC
+1.TR1_1_HRC
+[DEBUG] [1752736971.264852346]: Accepting a new goal
+[DEBUG] [1752736971.264960754]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1752736971.258369741, stamp: 1752736971.26
+
+{"timestamp": "2025-07-17 15:23:16", "ros_time": "1752736996.4991634", "final_state_before_reset": [4, 2, 4, 2, 2, 4, 2, 3, 3, 3, 1, 3]}
+
+2.TR2_1_HRC
+[DEBUG] [1752737052.170759320]: Accepting a new goal
+[DEBUG] [1752737052.170787525]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1752737052.170526507, stamp: 1752737052.17
+
+{"timestamp": "2025-07-17 15:24:36", "ros_time": "1752737076.1196296", "final_state_before_reset": [2, 4, 2, 2, 2, 2, 1, 3, 3, 1, 3, 1]}
+
+3.TR1_2_HRC
+[DEBUG] [1752737597.251275881]: Accepting a new goal
+[DEBUG] [1752737597.251327724]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1752737597.232644168, stamp: 1752737597.23
+
+{"timestamp": "2025-07-17 15:33:42", "ros_time": "1752737622.2695591", "final_state_before_reset": [4, 2, 4, 2, 2, 4, 2, 3, 3, 3, 1, 3]}
+
+4.TR2_2_HRC
+[DEBUG] [1752737731.267899267]: Accepting a new goal
+[DEBUG] [1752737731.268010466]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1752737731.267260825, stamp: 1752737731.27
+
+{"timestamp": "2025-07-17 15:35:58", "ros_time": "1752737758.9185631", "final_state_before_reset": [2, 4, 2, 2, 2, 2, 1, 2, 3, 1, 3, 4]}
+
+5.TR1_3_HRC
+[DEBUG] [1752738157.336361838]: Accepting a new goal
+[DEBUG] [1752738157.336452262]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1752738157.333711881, stamp: 1752738157.33
+
+{"timestamp": "2025-07-17 15:43:03", "ros_time": "1752738183.1679068", "final_state_before_reset": [4, 2, 4, 2, 2, 1, 3, 2, 3, 3, 1, 2]}
+
+6.TR2_3_HRC
+[DEBUG] [1752738353.157977773]: Accepting a new goal
+[DEBUG] [1752738353.158090531]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1752738353.156442073, stamp: 1752738353.16
+
+{"timestamp": "2025-07-17 15:46:20", "ros_time": "1752738380.3048863", "final_state_before_reset": [2, 4, 2, 2, 2, 2, 1, 2, 2, 1, 3, 1]}
+
+
+
+CS 90
+1.TR1_1_HRC_CS_90
+[DEBUG] [1753181718.781044820]: Accepting a new goal
+[DEBUG] [1753181718.781090010]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1753181718.780630339, stamp: 1753181718.78
+
+{"timestamp": "2025-07-22 18:55:57", "ros_time": "1753181757.13761", "final_state_before_reset": [4, 2, 4, 3, 2, 4, 2, 3, 3, 3, 1, 2]}
+
+2.TR1_2_HRC_CS_90
+[DEBUG] [1753184374.656668605]: Accepting a new goal
+[DEBUG] [1753184374.656705773]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1753184374.656229816, stamp: 1753184374.66
+
+{"timestamp": "2025-07-22 19:40:05", "ros_time": "1753184405.8347142", "final_state_before_reset": [2, 4, 2, 2, 2, 2, 4, 2, 3, 1, 3, 1]}
+
+3.TR2_1_HRC_CS_90
+[DEBUG] [1753184540.108209421]: Accepting a new goal
+[DEBUG] [1753184540.108319638]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1753184540.106444083, stamp: 1753184540.11
+
+{"timestamp": "2025-07-22 19:42:59", "ros_time": "1753184579.489241", "final_state_before_reset": [4, 3, 4, 3, 2, 1, 3, 3, 2, 2, 1, 2]}
+
+4.TR2_2_HRC_CS_90
+[DEBUG] [1753184812.738926338]: Accepting a new goal
+[DEBUG] [1753184812.739110911]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1753184812.737291413, stamp: 1753184812.74
+
+{"timestamp": "2025-07-22 19:47:22", "ros_time": "1753184842.0326622", "final_state_before_reset": [2, 4, 2, 2, 2, 2, 1, 2, 3, 1, 2, 4]}
+
+5.TR3_1_HRC_CS_90
+[DEBUG] [1753184921.731147162]: Accepting a new goal
+[DEBUG] [1753184921.731187747]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1753184921.727692913, stamp: 1753184921.73
+
+{"timestamp": "2025-07-22 19:49:23", "ros_time": "1753184963.6696694", "final_state_before_reset": [4, 3, 4, 3, 2, 1, 3, 3, 2, 2, 1, 2]}
+
+6.TR3_2_HRC_CS_90
+[DEBUG] [1753185133.872923895]: Accepting a new goal
+[DEBUG] [1753185133.873099893]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1753185133.871486368, stamp: 1753185133.87
+
+{"timestamp": "2025-07-22 19:52:41", "ros_time": "1753185161.3539407", "final_state_before_reset": [2, 4, 2, 2, 2, 2, 1, 2, 3, 1, 2, 1]}
+
+7.
+
+
+
+CS 95
+1.TR1_1_HRC_CS_95
+[DEBUG] [1753185342.579954448]: Accepting a new goal
+[DEBUG] [1753185342.580063083]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1753185342.579014051, stamp: 1753185342.58
+
+
+{"timestamp": "2025-07-22 19:56:26", "ros_time": "1753185386.90703", "final_state_before_reset": [4, 3, 4, 3, 2, 1, 3, 3, 3, 2, 1, 2]}
+
+2.TR1_2_HRC_CS_95
+[DEBUG] [1753185796.711995458]: Accepting a new goal
+[DEBUG] [1753185796.712074139]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1753185796.711120952, stamp: 1753185796.71
+
+{"timestamp": "2025-07-22 20:03:56", "ros_time": "1753185836.2656028", "final_state_before_reset": [2, 4, 2, 3, 3, 2, 4, 3, 3, 1, 2, 1]}
+
+
+3.TR2_1_HRC_CS_95
+[DEBUG] [1753186198.166866967]: Accepting a new goal
+[DEBUG] [1753186198.166948981]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1753186198.165692805, stamp: 1753186198.17
+
+{"timestamp": "2025-07-22 20:10:40", "ros_time": "1753186240.6019335", "final_state_before_reset": [4, 3, 4, 3, 3, 4, 3, 3, 3, 3, 1, 3]}
+
+
+4.TR2_2_HRC_CS_95
+[DEBUG] [1753186386.595852906]: Accepting a new goal
+[DEBUG] [1753186386.595959748]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1753186386.594410610, stamp: 1753186386.59
+
+{"timestamp": "2025-07-22 20:13:42", "ros_time": "1753186422.0803423", "final_state_before_reset": [2, 4, 3, 2, 3, 2, 1, 2, 3, 1, 2, 4]}
+
+5.TR3_1_HRC_CS_95
+[DEBUG] [1753186921.910369161]: Accepting a new goal
+[DEBUG] [1753186921.910459113]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1753186921.909538543, stamp: 1753186921.91
+
+{"timestamp": "2025-07-22 20:22:48", "ros_time": "1753186968.179144", "final_state_before_reset": [4, 3, 4, 3, 3, 4, 3, 3, 3, 3, 1, 3]}
+
+6.TR3_2_HRC_CS_95
+[DEBUG] [1753187140.434478516]: Accepting a new goal
+[DEBUG] [1753187140.434590925]: Accepting goal, id: /ssd_case_inspection_robot_behavior_alg_node-1-1753187140.432908738, stamp: 1753187140.43
+
+{"timestamp": "2025-07-22 20:26:21", "ros_time": "1753187181.9974265", "final_state_before_reset": [3, 4, 2, 2, 3, 3, 1, 3, 3, 1, 3, 1]}
+
+
+

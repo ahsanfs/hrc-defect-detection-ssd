@@ -1,0 +1,58 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore environments
+.venv/
+env/
+venv/
+*.env
+
+# Ignore datasets or models
+data/
+models/
+checkpoints/
+*.h5
+*.pt
+*.pth
+*.pkl
+
+# Ignore logs and temp files
+logs/
+*.log
+*.tmp
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore code from other colleges (example paths)
+box_aoi/
+box_aoi_old/
+build/
+devel/
+inspection_system/
+iriutils/
+old/
+scratch_detection/
+data_extraction_bag/bagfile/
+data_extraction_bag/others/
+data_extraction_bag/videos/
+
+src/inspection/
+src/Inspection_2/
+src/iri_base_algorithm/
+src/iri_behaviortree/
+src/iri_ros_tools-master/
+src/iri_ssd_case_inspection_robot_behavior/
+src/yolo_detection_action/
+
+src/aoi_kinova/*
+# !src/aoi_kinova/scripts/
+
+src/*.zip
+*.zip
+
+*.bag
