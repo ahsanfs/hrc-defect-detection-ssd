@@ -90,6 +90,14 @@ rosrun iri_ssd_case_inspection_robot_behavior iri_ssd_case_inspection_robot_beha
 
 ---
 
+### **Just if we want to record the bag file - Tab 9**
+```bash
+cd ~/spain_taiwan_ws/
+rosbag record -a
+```
+
+---
+
 ## Notes
 
 - Ensure all USB devices are recognized (`lsusb`) before running.  
@@ -112,9 +120,13 @@ spain_taiwan_ws/
 │   └── iri_ssd_case_inspection_robot_behavior/
 └── data_extraction_bag/
 ```
+---
+
+## Next Update
+
+- We also provide how to extract and analyze the bag files (WILL BE UPDATED SOON)
 
 ---
 
-## ✍️ Author
-**Ahsan F. S. (hucenrotia)**  
-Laboratory for Human–Robot Collaboration, Spain–Taiwan Project  
+## Author
+Laboratory for Human–Robot Collaboration, IRI-NYCU, Spain–Taiwan Project  
